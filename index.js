@@ -59,7 +59,6 @@ function wordsWithB(names) {
     {
       newArray.push(names[i])
     }
-
   }
    return newArray;
 }
