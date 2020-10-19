@@ -55,6 +55,9 @@ function wordsWithB(names) {
   let newArray = [];
   for(let i = 0; i < names.length; i++)
   {
-    if(names[i].)
+    if(names[i][0] === 'b')
+    
   }
+  
+  foods[0]
 }
