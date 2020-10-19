@@ -7,7 +7,7 @@ function dwarfRollCall(dwarves) {
   }
   else
   {
-    for(let i = 0; i < dwarves.length / 2; i++)
+    for(let i = dwarves; i < dwarves.length; i++)
     {
       newString += `${count}. ${dwarves[i]} `
       count++;
